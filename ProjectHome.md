@@ -1,0 +1,1 @@
+Moved to: https://bitbucket.org/harris/giantbomb-android
